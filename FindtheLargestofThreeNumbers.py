@@ -1,6 +1,6 @@
-angka1 = float(input("Masukkan angka pertama: "))
-angka2 = float(input("Masukkan angka kedua: "))
-angka3 = float(input("Masukkan angka ketiga: "))
+angka1 = int(input("Masukkan angka pertama: "))
+angka2 = int(input("Masukkan angka kedua: "))
+angka3 = int(input("Masukkan angka ketiga: "))
 
 if (angka1 >= angka2) and (angka1 >= angka3):
     terbesar = angka1
